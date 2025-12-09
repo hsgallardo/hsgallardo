@@ -6,7 +6,7 @@
 * Desarrollo de Aplicaciones Web
 * Me encanta trabajar con tecnologías como PHP, JavaScript, IA y más
 * Siempre estoy aprendiendo cosas nuevas, actualmente Angular
-* Mira mi portfolio: zmartinl.github.io/Portfolio
+* Mira mi portfolio: [[[zmartinl.github.io/Portfolio](https://hsgallardo.github.io/Portafolios/)](https://hsgallardo.github.io/Portafolios/)](https://hsgallardo.github.io/Portafolios/)
 
 
 ### Contácta Conmigo
